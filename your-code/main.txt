@@ -1,0 +1,7 @@
+Main exercise link:
+
+- https://public.tableau.com/profile/paula3345#!/vizhome/Lab-tableau-data-visualization/NFLTeamPerformanceDashboard_?publish=yes
+
+Bonus link:
+
+- https://public.tableau.com/profile/paula3345#!/vizhome/BonusChallenge_15950767627440/DensityPopulation
